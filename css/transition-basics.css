@@ -59,8 +59,6 @@
 }
 
 .timing:hover .box {
-  left: 100%;
-  translate: -100%;
 }
 
 .timing .linear {
